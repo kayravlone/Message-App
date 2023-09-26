@@ -1,1 +1,1 @@
-Firebase kullanarak Authentication sorgulama ve  Message Application yapımı.
+Firebase kullanarak Authentication sorgulama ve React-Native ile Message Application yapımı.
