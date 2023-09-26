@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27511870855",
+    "project_id": "patika-d2c31",
+    "storage_bucket": "patika-d2c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27511870855:android:b69017de272e13407fef22",
+        "android_client_info": {
+          "package_name": "com.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27511870855-3t0j5pk684sla9pir5ftges3n6t28srn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFOIaqynTi89qDTZuFhe9iuhhkXsIeWo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27511870855-3t0j5pk684sla9pir5ftges3n6t28srn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
