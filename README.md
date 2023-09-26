@@ -1,1 +1,1 @@
-Firebase ile Message Application yapımı.
+Firebase kullanarak Authentication sorgulama ve  Message Application yapımı.
